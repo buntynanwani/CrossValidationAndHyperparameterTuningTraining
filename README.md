@@ -127,6 +127,9 @@ Navigate to `notebooks/` and start with `01_cross_validation/01_intro_to_cv.ipyn
 
 Detailed documentation is available in the `docs/` folder:
 
+### Summary of Notebook using Supplement_Sales_Weekly_Expanded
+1. [Summary of Notebook using Supplement_Sales_Weekly_Expanded](docs/FinalConcusionOfSupplementSalesWeeklyExpandedUsedInNotebooks.md)
+
 ### Cross-Validation
 1. [What is Cross-Validation?](docs/01_cross_validation/01_what_is_cv.md)
 2. [The Problem CV Solves](docs/01_cross_validation/02_the_problem.md)
@@ -142,7 +145,8 @@ Detailed documentation is available in the `docs/` folder:
 6. [Tuning Methods](docs/02_hyperparameter_tuning/06_tuning_methods.md)
 
 ## 📓 Notebooks
-- **`eda_Supplement_Sales_Weekly_Expanded`** - EDA Notebook Structure
+- **`eda_Supplement_Sales_Weekly_Expanded.ipynb`** - EDA Notebook Structure
+- **`FinalConcusionOfSupplementSalesWeeklyExpandedUsedInNotebooks.ipynb`** - Summary of Notebook using Supplement_Sales_Weekly_Expanded.csv
 
 ### Cross-Validation Notebooks
 - **`01_intro_to_cv.ipynb`** - Introduction and basics (Done)
