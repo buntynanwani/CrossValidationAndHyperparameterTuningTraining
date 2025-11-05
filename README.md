@@ -163,4 +163,5 @@ Detailed documentation is available in the `docs/` folder:
 - `04_optuna_neural_network.ipynb` - Optuna framework for Neural Networks
 - `05_combined_cv_and_tuning.ipynb` - Combining CV with hyperparameter tuning
 
-
+### Project Presentation Link:
+https://gamma.app/docs/Cross-Validation-Hyperparameter-Tuning-Training-fsqja7q7s70zigm
