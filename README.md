@@ -13,9 +13,7 @@ A comprehensive training repository covering Cross-Validation techniques and Hyp
 - [Quick Start](#quick-start)
 - [Documentation](#documentation)
 - [Notebooks](#notebooks)
-- [Web Application](#web-application)
-- [Contributing](#contributing)
-- [License](#license)
+- [Presentation Link](https://gamma.app/docs/Cross-Validation-Hyperparameter-Tuning-Training-fsqja7q7s70zigm)
 
 ## 🎯 Overview
 
